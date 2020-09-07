@@ -1,4 +1,4 @@
-# pima-diabetes
+# pima-diabetes using pytorch
 
 Predict whether particular person is having diabetes or not.
 
